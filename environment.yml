@@ -21,3 +21,4 @@ dependencies:
   - wget
   - scikit-image
   - opencv-python
+  - ecg_plot

@@ -12,5 +12,11 @@ If you are on USF3, location is /mnt/data1/wamri/physionet2020
 `conda env create -f environment.yml`
 `conda activate physionet2020`
 
+### Running the project
 
+1. First run through notebook 01_preprocess.ipynb to process data.
+
+Or you can download preprocessed data here: https://drive.google.com/file/d/1ve_Jh57QSvmTeEf3AfCIZ4fTYpwL79ad/view?usp=sharing
+
+2. 02_train is a quick and dirty example on how to train a model with fastai
 
