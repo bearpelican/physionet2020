@@ -20,3 +20,16 @@ Or you can download preprocessed data here: https://drive.google.com/file/d/1ve_
 
 2. 02_train is a quick and dirty example on how to train a model with fastai
 
+
+
+
+
+
+
+
+
+
+
+
+
+![alt text](./images/screenshot.png)
